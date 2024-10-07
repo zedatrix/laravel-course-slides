@@ -1,11 +1,7 @@
 # What this course IS NOT
-<v-clicks>
-<ul>
-  <li><h2>A PHP course</h2></li>
-	<li><h2>Beginner course</h2></li>
-	<li><h2>Free code</h2></li>
-</ul>
-</v-clicks>
+- A PHP course
+- Beginner course
+- Free code
 
 <!--
 It is NOT a PHP course so we will not be teaching php basics here.

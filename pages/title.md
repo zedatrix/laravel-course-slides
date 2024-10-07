@@ -1,6 +1,6 @@
 # Laravel 11 Crash Course
 
-Course introduction
+Video Series introduction
 
 
 <!--

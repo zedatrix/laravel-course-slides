@@ -20,44 +20,48 @@ overviewSnapshots: true
 src: ./pages/title.md
 ---
 ---
-transition: fade-out
-src: ./pages/who-this-course-is-for.md
----
----
-transition: fade
+transition: slide-down
 src: ./pages/course-reqs.md
 ---
 ---
-transition: fade
+transition: slide-up
+src: ./pages/vs-code-extensions.md
+---
+---
+transition: slide-left
+src: ./pages/why-this-course.md
+---
+---
+transition: slide-left
 src: ./pages/what-this-course-is.md
----
----
-transition: fade
-src: ./pages/what-this-course-is-not.md
 ---
 ---
 transition: fade
 src: ./pages/what-you-will-walk-away-with.md
 ---
 ---
-transition: fade
+transition: slide-left
 src: ./pages/what-we-will-cover.md
 ---
 ---
-transition: fade
+transition: slide-left
 src: ./pages/course-structure.md
 ---
 ---
-transition: fade
+transition: slide-up
+layout: two-cols
 src: ./pages/why-laravel-11.md
 ---
 ---
-transition: fade
-src: ./pages/whoami.md
----
----
-transition: fade
-src: ./pages/feedback.md
+transition: slide-down
+layout: about-me
+helloMsg: Who am I?
+name: Zedatrix
+imageSrc: about-me.webp
+line1: Solutions Architect
+line2: Developer Advocate
+social1: https://youtube.com/@Zedatrix
+social2: https://x.com/zedatrix
 ---
 ---
 transition: fade

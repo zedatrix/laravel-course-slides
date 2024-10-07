@@ -1,13 +1,10 @@
-# What this course IS
-<v-clicks>
-  <ul>
-    <li><h2>Free on YouTube</h2></li>
-    <li><h2>Laravel specific</h2></li>
-    <li><h2>Intermediate level</h2></li>
-    <li><h2>A refresher or introduction to the Laravel framework</h2></li>
-    <li><h2>A living WIP (Work in Progress)</h2></li>
-  </ul>
-</v-clicks>
+# What this video series IS
+- Laravel specific
+- Intermediate level
+- A refresher or introduction to the Laravel framework
+- Free on YouTube
+- A living WIP (Work in Progress)
+
 <!--
 I am not charging money for this course. It's going to be available for free on my YouTube channel. For LinkedIn, I will put a link to the channel in the post.
 
